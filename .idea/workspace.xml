@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="scheduler" targetName="scheduler" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Remote Host 10.171.70.35" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Remote Host 10.171.70.35" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57cd9948-c73e-4419-8ce0-25ada6230c60" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Remote Host 10.171.70.35" />
+  <component name="ProjectId" id="1QWF7Pvp8fXHDysiNj6C6uTMDxe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug-remote-host" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ilya.petrukhin\CLionProjects\scheduler\cmake-build-debug-remote-host-101717035" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ilya.petrukhin\CLionProjects\scheduler\cmake-build-debug-remote-host" />
+      <recent name="C:\Users\ilya.petrukhin\CLionProjects\scheduler\cmake-build-debug" />
+      <recent name="C:\Users\ilya.petrukhin\CLionProjects\scheduler\cmake-build-debug-remote-host-101717035\CMakeFiles\scheduler.dir" />
+    </key>
+  </component>
+  <component name="RemoteSynchronizer">
+    <option name="targetMappings">
+      <list>
+        <TargetMappings>
+          <option name="name" value="Default" />
+        </TargetMappings>
+      </list>
+    </option>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="asd asd" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="scheduler" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="t1.txt t2.txt t3.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scheduler" TARGET_NAME="scheduler" CONFIG_NAME="Debug-Remote Host 10.171.70.35" RUN_TARGET_PROJECT_NAME="scheduler" RUN_TARGET_NAME="scheduler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57cd9948-c73e-4419-8ce0-25ada6230c60" name="Default Changelist" comment="" />
+      <created>1567878278623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567878278623</updated>
+      <workItem from="1567878283459" duration="1070000" />
+      <workItem from="1567880024462" duration="339000" />
+      <workItem from="1567880413612" duration="545000" />
+      <workItem from="1567881008732" duration="775000" />
+      <workItem from="1567882346482" duration="9907000" />
+      <workItem from="1568390347915" duration="82000" />
+      <workItem from="1568390495976" duration="528000" />
+      <workItem from="1568729054120" duration="8040000" />
+      <workItem from="1568753092092" duration="8718000" />
+      <workItem from="1568818597622" duration="4499000" />
+      <workItem from="1569318499059" duration="21261000" />
+      <workItem from="1569513050185" duration="32000" />
+      <workItem from="1569513416968" duration="10172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

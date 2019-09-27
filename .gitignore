@@ -1,0 +1,5 @@
+/cmake-build-debug/*
+/cmake-build-debug-remote-host/*
+/cmake-build-debug-remote-host-101717035/*
+
+CMakeLists.txt
